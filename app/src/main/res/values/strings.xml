@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">bakeryandcafemap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="default_lat">35.681167</string>
+    <string name="default_lng">139.767052</string>
+    <!-- preference -->
+    <string name="PREF_FILE_NAME">MyGeolocation</string>
+    <string name="PREF_LAST_LAT">MyLastLat</string>
+    <string name="PREF_LAST_LNG">MyLastLng</string>
+    <!-- gnavi -->
+    <string name="gnavi_keyid">fd4de8dc7f2630530f8a626fb552b252</string>
+</resources>
